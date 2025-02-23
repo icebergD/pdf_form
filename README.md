@@ -10,13 +10,12 @@
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/icebergD/pdf_form.git
-cd project
+cd pdf_form
 ```
 
 ### 2. Install Dependencies
 ```sh
 composer install
-npm install && npm run build
 ```
 
 ### 3. Configure Environment
