@@ -6,6 +6,7 @@
 
 ## Установка через Docker
 
+<<<<<<< HEAD
 1. Клонируйте репозиторий:
 ```bash
 git clone <your-repository-url>
@@ -14,6 +15,21 @@ cd pdf_form
 
 2. Создайте файл .env из примера:
 ```bash
+=======
+### 1. Clone the Repository
+```sh
+git clone https://github.com/icebergD/pdf_form.git
+cd pdf_form
+```
+
+### 2. Install Dependencies
+```sh
+composer install
+```
+
+### 3. Configure Environment
+```sh
+>>>>>>> e8d75e906783ff2a3022f903e695391b5607afc5
 cp .env.example .env
 ```
 
